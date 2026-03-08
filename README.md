@@ -20,15 +20,20 @@ O sistema foi estruturado para conectar quatro pilares fundamentais:
 🧩 Estrutura do Projeto
 
 imposto-renda-excel/
+
 │
 ├── README.md                # Documento principal
 ├── /planilhas               # Arquivos Excel da ferramenta
 │   └── agregador_dados.xlsx
 │
+
+
 ├── /docs                    # Documentação técnica
 │   ├── guia_instalacao.md
 │   ├── guia_uso.md
 │   └── guia_dev.md
+
+
 │
 ├── /images                  # Capturas de tela
 │   ├── menu_principal.png
