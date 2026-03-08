@@ -3,7 +3,7 @@
 Este projeto foi desenvolvido como uma solução prática para organizar e reunir informações essenciais da declaração de imposto de renda.
 A proposta é aplicar planilhas inteligentes com menus, validações e relatórios visuais, apoiadas por documentação técnica clara e organizada.
 
-
+![Capa do Projeto].(CAPA.png).
 
 📊 Infográfico da Planilha  
 Representa visualmente como os dados são coletados, validados e transformados em relatórios consolidados para facilitar a declaração.
