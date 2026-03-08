@@ -16,7 +16,9 @@ O sistema foi estruturado para conectar quatro pilares fundamentais:
 📊 Relatórios consolidados e gráficos ilustrativos
 🧪 Navegação prática com menus e links rápidos
 
+
 🧩 Estrutura do Projeto
+
 
 📌 Estudo de Caso - Declaração IRPF  
 Impacto da organização prévia nos prazos e na precisão da entrega.
@@ -34,6 +36,7 @@ Fontes: dados simulados e exemplos práticos.
 Menus de navegação, links rápidos e validações automáticas.
 Fontes: boas práticas de design em planilhas.
 
+
 💬 Interações com os Componentes
 
 Entradas da Planilha: dados pessoais, informes bancários, notas/holerites, bens e despesas.
@@ -43,6 +46,7 @@ Resultados Automáticos: total de rendimentos, despesas e relatórios consolidad
 Cenários: comparativos entre diferentes tipos de rendimentos e despesas.
 
 Gráficos: pizza para proporção de rendimentos por banco, colunas para evolução mensal.
+
 
 🧠 Metodologias Aplicadas
 
@@ -73,6 +77,7 @@ Representa a estrutura conceitual do organizador e suas conexões entre entradas
 Interface da planilha mostrando a organização de abas: Titular, Informes, Notas, Tabelas e Dashboard.
 Utilizada para estruturar o conhecimento e gerar relatórios visuais.
 
+
 📘 Arquivos do Projeto
 
 📄 Planilha Excel: OrganizadorIRPF.xlsx
@@ -82,6 +87,7 @@ Utilizada para estruturar o conhecimento e gerar relatórios visuais.
 🌐 Materiais Complementares: /extras
 
 📸 Capturas de Tela: /images
+
 
 🎯 Resultado Final
 O projeto gerou uma estrutura completa de organização e aplicação:
@@ -104,6 +110,7 @@ Gráficos e tabelas
 
 Casos de uso reais
 
+
 🔍 Funcionalidades do Sistema
 
 Organização de Dados
@@ -124,6 +131,7 @@ Gráfico de pizza para rendimentos por banco
 
 Gráfico de colunas para evolução mensal
 
+
 🧠 Reflexão
 
 O que funcionou bem:
@@ -138,15 +146,18 @@ Criar dashboards mais interativos.
 
 Adicionar exportação automática para PDF.
 
+
 O que aprendi sobre IRPF:
 
 Organização prévia reduz erros e atrasos.
 
 Visualização gráfica facilita conferência dos dados.
 
+
 👨‍💻 Pessoa Desenvolvedora do Projeto / Project Developer
 
 Ronaldo
+
 
 ✅ Conclusão  
 Este projeto mostra como uma planilha bem estruturada pode transformar o processo de declaração de imposto de renda.
