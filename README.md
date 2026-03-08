@@ -18,7 +18,7 @@ O sistema foi estruturado para conectar quatro pilares fundamentais:
 
 
 🧩 Estrutura do Projeto
-
+```
 imposto-renda-excel/
 
 │
@@ -26,14 +26,10 @@ imposto-renda-excel/
 ├── /planilhas               # Arquivos Excel da ferramenta
 │   └── agregador_dados.xlsx
 │
-
-
 ├── /docs                    # Documentação técnica
 │   ├── guia_instalacao.md
 │   ├── guia_uso.md
 │   └── guia_dev.md
-
-
 │
 ├── /images                  # Capturas de tela
 │   ├── menu_principal.png
@@ -41,7 +37,7 @@ imposto-renda-excel/
 │   └── exemplo_relatorio.png
 │
 └── LICENSE                  # Licença do projeto
-
+````
 
 📌 Estudo de Caso - Declaração IRPF  
 Impacto da organização prévia nos prazos e na precisão da entrega.
