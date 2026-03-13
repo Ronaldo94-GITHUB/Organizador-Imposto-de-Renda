@@ -5,9 +5,13 @@ A proposta é aplicar planilhas inteligentes com menus, validações e relatóri
 
 ![Capa do Projeto](ImagemLIONAPP.png)
 
+---
+
 📊 Infográfico da Planilha  
 Representa visualmente como os dados são coletados, validados e transformados em relatórios consolidados para facilitar a declaração.
 
+ --- 
+ 
 🧠 Visão Geral  
 O sistema foi estruturado para conectar quatro pilares fundamentais:
 
@@ -16,6 +20,7 @@ O sistema foi estruturado para conectar quatro pilares fundamentais:
 📊 Relatórios consolidados e gráficos ilustrativos
 🧪 Navegação prática com menus e links rápidos
 
+ ---
 
 🧩 Estrutura do Projeto
 ```
@@ -39,6 +44,8 @@ imposto-renda-excel/
 └── LICENSE                  # Licença do projeto
 ````
 
+---
+
 📌 Estudo de Caso - Declaração IRPF  
 Impacto da organização prévia nos prazos e na precisão da entrega.
 Fontes: Receita Federal, Excel.
@@ -55,6 +62,7 @@ Fontes: dados simulados e exemplos práticos.
 Menus de navegação, links rápidos e validações automáticas.
 Fontes: boas práticas de design em planilhas.
 
+---
 
 💬 Interações com os Componentes
 
@@ -66,6 +74,7 @@ Cenários: comparativos entre diferentes tipos de rendimentos e despesas.
 
 Gráficos: pizza para proporção de rendimentos por banco, colunas para evolução mensal.
 
+---
 
 🧠 Metodologias Aplicadas
 
@@ -89,8 +98,12 @@ Notas atemporais como:
 
 “Visualização gráfica simplifica análise de dados”
 
+ ---
+
 🧠 Planilha  
 Representa a estrutura conceitual do organizador e suas conexões entre entradas, validações e resultados.
+
+---
 
 🖥️ Bastidores do Projeto  
 Interface da planilha mostrando a organização de abas: Titular, Informes, Notas, Tabelas e Dashboard.
@@ -107,6 +120,7 @@ Utilizada para estruturar o conhecimento e gerar relatórios visuais.
 
 📸 Capturas de Tela: /images
 
+---
 
 🎯 Resultado Final
 O projeto gerou uma estrutura completa de organização e aplicação:
@@ -129,6 +143,7 @@ Gráficos e tabelas
 
 Casos de uso reais
 
+---
 
 🔍 Funcionalidades do Sistema
 
@@ -150,6 +165,7 @@ Gráfico de pizza para rendimentos por banco
 
 Gráfico de colunas para evolução mensal
 
+---
 
 🧠 Reflexão
 
@@ -165,6 +181,7 @@ Criar dashboards mais interativos.
 
 Adicionar exportação automática para PDF.
 
+---
 
 O que aprendi sobre IRPF:
 
@@ -175,8 +192,9 @@ Visualização gráfica facilita conferência dos dados.
 
 👨‍💻 Pessoa Desenvolvedora do Projeto / Project Developer
 
-Ronaldo
+Ronaldo(https://github.com/Ronaldo94-GITHUB)
 
+---
 
 ✅ Conclusão  
 Este projeto mostra como uma planilha bem estruturada pode transformar o processo de declaração de imposto de renda.
